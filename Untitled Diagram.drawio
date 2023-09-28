@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T07:00:27.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="scYOXxhg8bnqSUGY-V_s" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T07:04:39.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Zq8sopGq_b6k61-hXnEH" version="21.3.2" type="github">
   <diagram name="Page-1" id="CbTcqj-9UZoFOfNo5Y7z">
     <mxGraphModel dx="1562" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="330" y="158" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NXNr_8BULZLECcc48SDQ-9" value="ome appliance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="210" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NXNr_8BULZLECcc48SDQ-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="512.5" width="145" height="145" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="940" y="148" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NXNr_8BULZLECcc48SDQ-44" value="ome appliance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="200" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NXNr_8BULZLECcc48SDQ-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1020" y="502.5" width="145" height="145" as="geometry" />
@@ -221,6 +221,12 @@
         </mxCell>
         <mxCell id="NXNr_8BULZLECcc48SDQ-70" value="http communicatio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NXNr_8BULZLECcc48SDQ-71" value="aws certificate manager &lt;br&gt;(or ) dell digital locker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364.16" y="80" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXNr_8BULZLECcc48SDQ-72" value="aws certificate manager &lt;br&gt;(or ) dell digital locker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="969.1600000000001" y="60" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
